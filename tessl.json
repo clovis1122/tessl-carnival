@@ -1,0 +1,15 @@
+{
+  "name": "tessl-carnival",
+  "schedules": {
+    "test-health": {
+      "cron": "0 6 * * 1",
+      "description": "Find weak or misleading tests and file actionable GitHub issues.",
+      "action": {
+        "skill": "file:tessl-factory#test-health",
+        "environment": "tessl-carnival-loops",
+        "agent": "codex",
+        "model": "gpt-6.1-sol"
+      }
+    }
+  }
+}
