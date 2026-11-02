@@ -1,14 +1,14 @@
-# Tessl Carnival
+# Clovis's Carnival
 
 [![AI DevCon NYC, 2 to 4 November 2026](https://img.shields.io/badge/AI%20DevCon%20NYC-2--4%20Nov%202026-e63946)](https://tessl.io/devcon?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)
-[![Play the carnival](https://img.shields.io/badge/Play-the%20carnival-ffcc33)](https://tesslio.github.io/tessl-carnival/)
+[![Play the carnival](https://img.shields.io/badge/Play-the%20carnival-ffcc33)](https://clovis1122.github.io/tessl-carnival/)
 [![Built with Tessl](https://img.shields.io/badge/Built%20with-Tessl-1b1035)](https://tessl.io/?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)
 [![Join the Tessl Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/jbb2vHnHZQ?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)
 [![MIT license](https://img.shields.io/badge/license-MIT-b9a9d9)](LICENSE)
 
-![The Tessl Carnival midway: striped tents, a ferris wheel, a carousel and game booths along a path](docs/midway.jpg)
+![The Clovis's Carnival midway at sunset: striped tents, a ferris wheel, a carousel and game booths along a path](docs/midway.jpg)
 
-**[Play the carnival](https://tesslio.github.io/tessl-carnival/)** in your browser, and see what other people's
+**[Play the carnival](https://clovis1122.github.io/tessl-carnival/)** in your browser, and see what other people's
 factories built in **[Show your carnival](https://github.com/tesslio/tessl-carnival/discussions/13)**.
 
 Your coding agent writes code fast. Turning issues into pull requests, reviewing
@@ -22,7 +22,8 @@ code review checks the result before you merge.
 
 ## The workshop
 
-Tessl Carnival is the starter repo for **Build your own software factory with
+Clovis's Carnival is a fork of
+[Tessl Carnival](https://github.com/tesslio/tessl-carnival), the starter repo for **Build your own software factory with
 context**, a 90-minute hands-on workshop at
 **[AI Native DevCon NYC](https://tessl.io/devcon?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)**, November 2 to 4, 2026 at Industry City,
 Brooklyn. Everyone in the room builds on this same repo, so you can compare

@@ -21,7 +21,8 @@ describe('shareLinks', () => {
     const x = new URL(links.x);
     expect(x.hostname).toBe('x.com');
     expect(x.searchParams.get('url')).toBe('https://ada.github.io/tessl-carnival/');
-    expect(x.searchParams.get('text')).toContain('@tessl_io');
+    expect(x.searchParams.get('text')).toContain("Clovis's Carnival");
+    expect(x.searchParams.get('text')).not.toMatch(/tessl/i);
     expect(new URL(links.linkedIn).searchParams.get('url')).toBe(
       'https://ada.github.io/tessl-carnival/',
     );
