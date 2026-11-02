@@ -1,8 +1,8 @@
-/** The original carnival, where anyone can fork their own. */
-export const REPO_URL = 'https://github.com/tesslio/tessl-carnival';
+/** This carnival's source, where anyone can fork their own. */
+export const REPO_URL = 'https://github.com/clovis1122/tessl-carnival';
 
 const SHARE_TEXT =
-  'I built a software factory on a browser carnival at AI DevCon NYC with @tessl_io. Play my carnival:';
+  "Come play Clovis's Carnival, a browser carnival grown by a software factory at AI DevCon NYC:";
 
 /**
  * The address to share for the carnival at `href`: the page itself, without
